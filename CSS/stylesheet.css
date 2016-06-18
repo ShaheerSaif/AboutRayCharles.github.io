@@ -133,7 +133,7 @@ section.two {
   height: auto;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: centerx;
+  background-position: center;
 }
 
 section.two .title {
